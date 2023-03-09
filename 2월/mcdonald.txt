@@ -1,2 +1,0 @@
-주문하신 cheese_burger가 나왔습니다.
-주문하신 Classic_burger가 나왔습니다.
